@@ -5,7 +5,7 @@
  
    <proxies>
    <proxy>
-      <id>default</id>
+      <id>axa-default</id>
       <active>true</active>
       <protocol>http</protocol>
       <host>default-http-proxy.default.svc.cluster.local</host>
